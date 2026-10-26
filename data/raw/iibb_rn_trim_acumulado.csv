@@ -1,0 +1,63 @@
+anio,trimestre,acumulado,unidad,archivo,hoja
+2011,1,184276.32,miles,informacion_trimestral_2011.zip,RTP_1trim.xls
+2011,2,384986.56,miles,informacion_trimestral_2011.zip,RTP_2trim.xls
+2011,3,599301.31,miles,informacion_trimestral_2011.zip,RTP_3trim.xls
+2011,4,831157.81,miles,informacion_trimestral_2011.zip,RTP_4trim.xls
+2012,1,225312.4,miles,informacion_trimestral_2012.zip,RTP_1trim.xls
+2012,2,465697.51,miles,informacion_trimestral_2012.zip,RTP_2trim.xls
+2012,3,780575.14,miles,informacion_trimestral_2012.zip,RTP_3trim.xls
+2012,4,1089282.81,miles,informacion_trimestral_2012.zip,RTP_4trim.xls
+2013,1,368708.77,miles,informacion_trimestral_2013.zip,RTP_1trim.xls
+2013,2,743295.75,miles,informacion_trimestral_2013.zip,RTP_2trim.xls
+2013,3,1150134.03,miles,informacion_trimestral_2013.zip,RTP_3trim.xls
+2013,4,1583128.03,miles,informacion_trimestral_2013.zip,RTP_4trim.xls
+2014,1,514937.42,miles,informacion_trimestral_2014.zip,RTP_1trim.xls
+2014,2,1072999.31,miles,informacion_trimestral_2014.zip,RTP_2trim.xls
+2014,3,1686611.72,miles,informacion_trimestral_2014.zip,RTP_3trim.xls
+2014,4,2477127.04,miles,informacion_trimestral_2014.zip,RTP_4trim.xls
+2015,1,695966.74,miles,informacion_trimestral_2015.zip,RTP_1trim.xls
+2015,2,1418441.44,miles,informacion_trimestral_2015.zip,RTP_2trim.xls
+2015,3,2201504.53,miles,informacion_trimestral_2015.zip,RTP_3trim.xls
+2015,4,3045579.55,miles,informacion_trimestral_2015.zip,RTP_4trim.xls
+2016,1,976474.21,miles,informacion_trimestral_-_2016.xlsx,I TRIM
+2016,2,1991983.44,miles,informacion_trimestral_-_2016.xlsx,ACUM II TRIM
+2016,3,3148072.19,miles,informacion_trimestral_-_2016.xlsx,ACUM III TRIM
+2016,4,4261872.49,miles,informacion_trimestral_-_2016.xlsx,ACUM IV TRIM
+2017,1,1274284.59,miles,informacion_trimestral_-_2017.xlsx,I TRIM
+2017,2,2532627.16,miles,informacion_trimestral_-_2017.xlsx,ACUM II TRIM
+2017,3,3947234.89,miles,informacion_trimestral_-_2017.xlsx,ACUM III TRIM
+2017,4,5466318.69,miles,informacion_trimestral_-_2017.xlsx,ACUM IV TRIM
+2018,1,1714924.97,miles,informacion_trimestral_-_2018_0.xlsx,I TRIM
+2018,2,3540371.03,miles,informacion_trimestral_-_2018_0.xlsx,ACUM II TRIM
+2018,3,5674341.93,miles,informacion_trimestral_-_2018_0.xlsx,ACUM III TRIM
+2018,4,8134921.62,miles,informacion_trimestral_-_2018_0.xlsx,ACUM IV TRIM
+2019,1,2550401.87,miles,informacion_trimestral_-_2019.xlsx,I TRIM
+2019,2,5298367.46,miles,informacion_trimestral_-_2019.xlsx,ACUM II TRIM
+2019,3,8285273.28,miles,informacion_trimestral_-_2019.xlsx,ACUM III TRIM
+2019,4,11699435.47,miles,informacion_trimestral_-_2019.xlsx,ACUM IV TRIM
+2020,1,3490827.69,miles,informacion_trimestral_-_2020_0.xlsx,I TRIM
+2020,2,6234128.26,miles,informacion_trimestral_-_2020_0.xlsx,ACUM II TRIM
+2020,3,9568199.16,miles,informacion_trimestral_-_2020_0.xlsx,ACUM III TRIM
+2020,4,13419484.31,miles,informacion_trimestral_-_2020_0.xlsx,ACUM IV TRIM
+2021,1,4570306.15,miles,informacion_trimestral_-_2021_0.xlsx,I TRIM
+2021,2,9444183.28,miles,informacion_trimestral_-_2021_0.xlsx,ACUM II TRIM
+2021,3,15077295.42,miles,informacion_trimestral_-_2021_0.xlsx,ACUM III TRIM
+2021,4,21673505.78,miles,informacion_trimestral_-_2021_0.xlsx,ACUM IV TRIM
+2022,1,7420055,miles,informacion_trimestral_-_2022.xlsx,I TRIM
+2022,2,15809059.03,miles,informacion_trimestral_-_2022.xlsx,ACUM II TRIM
+2022,3,26466706.83,miles,informacion_trimestral_-_2022.xlsx,ACUM III TRIM
+2022,4,39147193.59,miles,informacion_trimestral_-_2022.xlsx,ACUM IV TRIM
+2023,1,16695.93,millones,informacion_trimestral_-_2023.xlsx,I TRIM
+2023,2,35748.72,millones,informacion_trimestral_-_2023.xlsx,ACUM II TRIM
+2023,3,61109.7,millones,informacion_trimestral_-_2023.xlsx,ACUM III TRIM
+2023,4,95430.88,millones,informacion_trimestral_-_2023.xlsx,ACUM IV TRIM
+2024,1,61139.87,millones,top_trim_2024_1.xlsx,I TRIM
+2024,2,134141.98,millones,top_trim_2024_1.xlsx,ACUM II TRIM
+2024,3,224520.66,millones,top_trim_2024_1.xlsx,ACUM III TRIM
+2024,4,318219.21,millones,top_trim_2024_1.xlsx,ACUM IV TRIM
+2025,1,110773.18,millones,top_trim_2025_4.xlsx,I TRIM
+2025,2,234077.11,millones,top_trim_2025_4.xlsx,ACUM II TRIM
+2025,3,375902.2,millones,top_trim_2025_4.xlsx,ACUM III TRIM
+2025,4,520912.1,millones,top_trim_2025_4.xlsx,ACUM IV TRIM
+2026,1,159390.54,millones,top_trim_2026_4.xlsx,I TRIM
+2026,2,324048.24,millones,top_trim_2026_4.xlsx,II TRIM
